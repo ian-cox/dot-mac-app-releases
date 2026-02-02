@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Dot Updates</title>
+    <link>https://github.com/ian-cox/dot-mac-app-releases/releases</link>
+    <description>Updates for Dot Mac App</description>
+    <language>en</language>
+    <item>
+      <title>Version 1.0.0</title>
+      <sparkle:version>1.0.0</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <pubDate>Mon, 02 Feb 2026 08:10:00 +0000</pubDate>
+      <enclosure 
+        url="https://github.com/ian-cox/dot-mac-app-releases/releases/download/v1.0.0/Dot.zip"
+        length="2698186"
+        type="application/octet-stream"
+        sparkle:edSignature="PLACEHOLDER_WILL_UPDATE_AFTER_RELEASE"/>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h2>Dot 1.0.0</h2>
+        <p>Initial release - Fully notarized macOS app with auto-update support.</p>
+        <ul>
+          <li>Voice-narrated Figma walkthroughs</li>
+          <li>Keyboard shortcuts for recording</li>
+          <li>Automatic updates</li>
+        </ul>
+      ]]></description>
+    </item>
+  </channel>
+</rss>
