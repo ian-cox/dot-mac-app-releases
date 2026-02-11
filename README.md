@@ -4,7 +4,7 @@ Official releases of Dot - the macOS app for voice-narrated Figma walkthroughs.
 
 ## Download
 
-**[Download Latest Version](https://github.com/ian-cox/dot-mac-app-releases/releases/latest/download/Dot.zip)**
+**[Download Latest Version](https://github.com/ian-cox/dot-mac-app-releases/releases/latest/download/Dot.dmg)**
 
 ### System Requirements
 
@@ -13,12 +13,10 @@ Official releases of Dot - the macOS app for voice-narrated Figma walkthroughs.
 
 ### Installation
 
-1. Download `Dot.zip`
-2. Unzip the file
+1. Download `Dot.dmg`
+2. Double-click to open the disk image
 3. Drag `Dot.app` to your Applications folder
 4. Open Dot from Applications
-
-**First Time Opening:** Right-click `Dot.app` and select "Open" to bypass macOS security. This is only required on first launch.
 
 ## Auto-Updates
 
