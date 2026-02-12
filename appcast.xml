@@ -4,6 +4,18 @@
     <title>Dot Updates</title>
     <link>https://github.com/ian-cox/dot-mac-app-releases/releases</link>
     <item>
+      <title>Version 1.0.7</title>
+      <sparkle:version>1.0.7</sparkle:version>
+      <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
+      <pubDate>Thu, 12 Feb 2026 10:31:40 +0000</pubDate>
+      <enclosure 
+        url="https://github.com/ian-cox/dot-mac-app-releases/releases/download/v1.0.7/Dot.dmg"
+        length="6670078"
+        type="application/octet-stream"
+        sparkle:edSignature="dn4yni3vrn5Ce7lAFGoaRJm4sC+9qUjW9rJQQ3Kle6Eo+yRu1HpGGLkIBC2K7N8GeZk/d3dGL+6F48ujU383Dg=="/>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+    </item>
+    <item>
       <title>Version 1.0.6</title>
       <sparkle:version>1.0.6</sparkle:version>
       <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
